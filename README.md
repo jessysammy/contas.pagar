@@ -46,5 +46,6 @@ php artisan make:test AccountTest --unit
 PWA
 
 manifest.json
-
+sw.js
+javascrpit
 
