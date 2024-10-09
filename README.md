@@ -38,4 +38,13 @@ Valor: O valor da conta.
 Data de Vencimento: A data limite para o pagamento.
 Status: Indica se a conta está "paga" ou "pendente".
 
+Testes
+
+php artisan make:test AccountTest --unit
+
+
+PWA
+
+manifest.json
+
 
